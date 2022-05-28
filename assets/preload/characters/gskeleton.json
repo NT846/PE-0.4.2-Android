@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				137,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_guitar"
+		},
+		{
+			"offsets": [
+				-141,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_guitar"
+		},
+		{
+			"offsets": [
+				-516,
+				314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_guitar"
+		},
+		{
+			"offsets": [
+				18,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_guitar"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_guitar"
+		},
+		{
+			"offsets": [
+				1,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "brain",
+			"indices": [],
+			"name": "wasityourbrain"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeleton_guitar",
+	"position": [
+		-600,
+		330
+	],
+	"healthicon": "skeleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		89,
+		94
+	],
+	"camera_position": [
+		370,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

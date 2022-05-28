@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Atrocity",
+			"skeleton",
+			[
+				206,
+				93,
+				113
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Jellybean vs skeletons",
+	"weekName": "jellybeanweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
